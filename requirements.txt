@@ -4,5 +4,5 @@ sqlalchemy
 python-dotenv
 psycopg2-binary
 gunicorn
-flask-api
+Flask-API
 pandas
