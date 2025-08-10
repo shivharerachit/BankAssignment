@@ -5,6 +5,8 @@ This project is created using **Flask** (A framework of Python). Time taken to c
 ## 🌐 Hosted API
 **Base URL:** https://bankassignment.onrender.com/
 
+> **Note:** The API is hosted on Render's free tier. It may take up to 5 minutes to start if the service has been inactive.
+
 ## 📋 API Endpoints
 
 ### 1. Get Branch by IFSC Code
