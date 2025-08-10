@@ -3,4 +3,4 @@ flask-sqlalchemy
 psycopg2-binary
 gunicorn
 dotenv
-flask-api
+flask-restful
